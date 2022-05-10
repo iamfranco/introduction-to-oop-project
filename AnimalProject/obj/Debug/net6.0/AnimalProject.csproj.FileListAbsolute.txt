@@ -1,0 +1,15 @@
+C:\Users\Franco\Documents\mainFolder\job\tech returners\Pre Journey\introduction-to-oop-project\AnimalProject\bin\Debug\net6.0\AnimalProject.exe
+C:\Users\Franco\Documents\mainFolder\job\tech returners\Pre Journey\introduction-to-oop-project\AnimalProject\bin\Debug\net6.0\AnimalProject.deps.json
+C:\Users\Franco\Documents\mainFolder\job\tech returners\Pre Journey\introduction-to-oop-project\AnimalProject\bin\Debug\net6.0\AnimalProject.runtimeconfig.json
+C:\Users\Franco\Documents\mainFolder\job\tech returners\Pre Journey\introduction-to-oop-project\AnimalProject\bin\Debug\net6.0\AnimalProject.dll
+C:\Users\Franco\Documents\mainFolder\job\tech returners\Pre Journey\introduction-to-oop-project\AnimalProject\bin\Debug\net6.0\AnimalProject.pdb
+C:\Users\Franco\Documents\mainFolder\job\tech returners\Pre Journey\introduction-to-oop-project\AnimalProject\obj\Debug\net6.0\AnimalProject.csproj.AssemblyReference.cache
+C:\Users\Franco\Documents\mainFolder\job\tech returners\Pre Journey\introduction-to-oop-project\AnimalProject\obj\Debug\net6.0\AnimalProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Franco\Documents\mainFolder\job\tech returners\Pre Journey\introduction-to-oop-project\AnimalProject\obj\Debug\net6.0\AnimalProject.AssemblyInfoInputs.cache
+C:\Users\Franco\Documents\mainFolder\job\tech returners\Pre Journey\introduction-to-oop-project\AnimalProject\obj\Debug\net6.0\AnimalProject.AssemblyInfo.cs
+C:\Users\Franco\Documents\mainFolder\job\tech returners\Pre Journey\introduction-to-oop-project\AnimalProject\obj\Debug\net6.0\AnimalProject.csproj.CoreCompileInputs.cache
+C:\Users\Franco\Documents\mainFolder\job\tech returners\Pre Journey\introduction-to-oop-project\AnimalProject\obj\Debug\net6.0\AnimalProject.dll
+C:\Users\Franco\Documents\mainFolder\job\tech returners\Pre Journey\introduction-to-oop-project\AnimalProject\obj\Debug\net6.0\refint\AnimalProject.dll
+C:\Users\Franco\Documents\mainFolder\job\tech returners\Pre Journey\introduction-to-oop-project\AnimalProject\obj\Debug\net6.0\AnimalProject.pdb
+C:\Users\Franco\Documents\mainFolder\job\tech returners\Pre Journey\introduction-to-oop-project\AnimalProject\obj\Debug\net6.0\AnimalProject.genruntimeconfig.cache
+C:\Users\Franco\Documents\mainFolder\job\tech returners\Pre Journey\introduction-to-oop-project\AnimalProject\obj\Debug\net6.0\ref\AnimalProject.dll
