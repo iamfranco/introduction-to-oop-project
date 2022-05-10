@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace AnimalProject
 {
-    internal class Bird
+    public abstract class Bird
     {
         public string Name { get; private set; }
         public string Color { get; private set; }
@@ -17,12 +17,9 @@ namespace AnimalProject
             Color = color;
         }
 
-        public void Speak()
-        {
-            Console.WriteLine($"My name is {Name} and I am a {Color} bird.");
-        }
+        public abstract void Speak();
 
-        public void Fly()
+        public virtual void Fly()
         {
             Console.WriteLine($"I'm {Name} and I can fly high in the blue sky!");
         }
